@@ -14,6 +14,8 @@ Automatic door (crepuscular) with lock for chicken coop based on Arduino.
 - Resistors: 10kΩ, 1kΩ, 330Ω (x2)
 - Power supply DC12V
 
+![schema](https://github.com/sandrolab/auto-chicken-door/blob/98699b8103578220da3602f9cd3cd23eaabb9875/schema.jpg "schema")
+
 **Video demonstration:**
 
 https://youtu.be/isMskdAAOvI
