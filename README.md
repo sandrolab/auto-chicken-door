@@ -1,6 +1,8 @@
+# Auto Chicken Door
+
 Automatic door (crepuscular) with lock for chicken coop based on Arduino.
 
-**Main components:**
+## Main components
 - Arduino nano
 - Servo 1 - 25kg
 - Servo 2 - 9g
@@ -16,6 +18,6 @@ Automatic door (crepuscular) with lock for chicken coop based on Arduino.
 
 ![schema](https://github.com/sandrolab/auto-chicken-door/blob/98699b8103578220da3602f9cd3cd23eaabb9875/schema.jpg "schema")
 
-**Video demonstration:**
+## Video demonstration
 
 https://youtu.be/isMskdAAOvI
